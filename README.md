@@ -77,11 +77,10 @@ Dentro do grupo `DIO-PROJETOS` foram criados o **SQL Server**, o **SQL Database*
 
 A estrutura do projeto no GitHub e as bibliotecas utilizadas no Python:
 
-![Estrutura do repositório](./assets/03-estrutura-repositorio.png)
-
 ```
 dio-lab-001-azure-ecommerce/
 ├── .vscode/            # Configurações do editor
+├──  assets             # Pasta com imagens utilizadas dentro do arquivo readme para visualização
 ├── .gitignore          # Arquivos ignorados pelo Git (inclui o .env)
 ├── README.md           # Este arquivo
 ├── infos.txt           # Script SQL de criação da tabela Produtos
